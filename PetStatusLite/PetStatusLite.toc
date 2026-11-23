@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Pet Status Lite
+## Notes: A compact status panel for your Hunter pet.
+## Version: 0.2.0
+## X-License: GPL-3.0-or-later
+## SavedVariablesPerCharacter: PetStatusLiteDB
+
+Progress.lua
+Core.lua
