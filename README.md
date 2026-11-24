@@ -4,7 +4,7 @@ A compact, configurable Hunter pet status panel for WoW Forever.
 
 ## Install
 
-Use `dist/PetStatusLite.zip` after a local build. Follow the [install instructions](PetStatusLite/README.md).
+Download [PetStatusLite.zip](https://github.com/git-adin/PetStatusLite/releases/latest/download/PetStatusLite.zip) or use `dist/PetStatusLite.zip` after a local build. Follow the [install instructions](PetStatusLite/README.md).
 
 ## Develop
 
